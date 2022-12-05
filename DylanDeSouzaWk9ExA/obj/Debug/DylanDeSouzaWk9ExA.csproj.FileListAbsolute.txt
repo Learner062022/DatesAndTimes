@@ -1,0 +1,24 @@
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\bin\Debug\DylanDeSouzaWk9ExA.exe.config
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\bin\Debug\DylanDeSouzaWk9ExA.exe
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\bin\Debug\DylanDeSouzaWk9ExA.pdb
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.AssemblyReference.cache
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.Form1.resources
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.Form2.resources
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.Properties.Resources.resources
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.GenerateResource.cache
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.exe
+C:\Users\Dylan\source\repos\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.pdb
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\bin\Debug\DylanDeSouzaWk9ExA.exe.config
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\bin\Debug\DylanDeSouzaWk9ExA.exe
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\bin\Debug\DylanDeSouzaWk9ExA.pdb
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.AssemblyReference.cache
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.Form1.resources
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.Form2.resources
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.Properties.Resources.resources
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.GenerateResource.cache
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.exe
+C:\Users\Dylan\OneDrive - TAFE\C#\DylanDeSouzaWk9ExA\DylanDeSouzaWk9ExA\obj\Debug\DylanDeSouzaWk9ExA.pdb
